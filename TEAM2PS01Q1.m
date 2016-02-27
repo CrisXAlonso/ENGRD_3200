@@ -1,5 +1,3 @@
-
-
 h=2; %Sets h equal to 10 times the starting value because it will be 
      %divided at the start of the while loop 
 x0 = pi/4; %Sets the point at which the derivative is to be computed.
